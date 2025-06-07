@@ -37,7 +37,7 @@ The system consists of three main components:
    - Camera feed display
    - Responsive design
 
-## Implementation Screenshots
+## Our Presentation at Innovation Project Showcasing
 
 <div style="display: flex; justify-content: space-between;">
     <img src="Acheivements/1719835317868.jpeg" width="30%" alt="Live Tracking"/>
@@ -92,8 +92,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Project Status
+## Acheivements
 
-🟢 Active Development
-
-![Project Overview](Acheivements/496093314_4976288379262013_1406565496082361352_n.jpg)
+![Champion!](Acheivements/496093314_4976288379262013_1406565496082361352_n.jpg)
